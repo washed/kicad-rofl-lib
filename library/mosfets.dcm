@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDMS7660ASCT
+D N-Channel PowerTrench MOSFET, Vds=30V, Rds=2.4mΩ, Id(const)=42A, Qg(max)=90nC, Temp=-55 to 150 °C, SON8 5x6mm/Power56 package
+K powertrench-mosfet mosfet fairchild
+F https://www.fairchildsemi.com/datasheets/FD/FDMS7660AS.pdf
+$ENDCMP
+#
+#End Doc Library

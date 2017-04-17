@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTV-827
+D DIP-8, Dual DC Optocoupler, Vce 35V, CTR 50%
+K NPN DC Dual Optocoupler
+F http://www.us.liteon.com/downloads/LTV-817-827-847.PDF
+$ENDCMP
+#
+$CMP MCT62SDCT
+D 8-Pin Dual Channel Phototransistor Optocouplers, 
+K NPN DC Dual Optocoupler
+F https://www.fairchildsemi.com/datasheets/MC/MCT6.pdf
+$ENDCMP
+#
+#End Doc Library
