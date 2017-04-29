@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TPS63051
-D Tiny Single Inductor Buck Boost Converter
-K buck, boost, switcher, switching regulator
-$ENDCMP
-#
-#End Doc Library

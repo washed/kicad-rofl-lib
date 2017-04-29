@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP WE-SL2
-D Common mode choke
-K WE-SL2
-$ENDCMP
-#
-#End Doc Library
