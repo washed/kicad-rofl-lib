@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TPS2290x
-D high side load switch
-K switch, high-side
-$ENDCMP
-#
-#End Doc Library

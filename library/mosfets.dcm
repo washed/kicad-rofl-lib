@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DMN1019USN
+D Transistor N-MOSFET enhancement mode MOSFET
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP DMP1100UCB4
+D Transistor P-MOSFET Enhancement mode MOSFET
+K pmos p-mos p-mosfet transistor
+$ENDCMP
+#
 $CMP FDMS7660ASCT
 D N-Channel PowerTrench MOSFET, Vds=30V, Rds=2.4mΩ, Id(const)=42A, Qg(max)=90nC, Temp=-55 to 150 °C, SON8 5x6mm/Power56 package
 K powertrench-mosfet mosfet fairchild
